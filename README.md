@@ -1,23 +1,19 @@
-Random Number Game — Project Description
+# Random Number Generator (Python)
 
-Description
-A Python program that generates a random number within a user-defined range. The program validates user input to ensure correctness and handles invalid cases gracefully.
+A simple Python program that generates a random number within a user-defined range.
 
-Key Features
+## Features
+- Takes user input for maximum range
+- Validates input to avoid errors
+- Generates a random number using Python's standard library
 
-User-defined number range
+## Concepts Used
+- User input handling
+- Input validation
+- Conditional statements
+- Random module
 
-Input validation
-
-Random number generation
-
-Simple console output
-
-Technologies Used
-
-Python
-
-random module
-
-Purpose
-Created to strengthen understanding of input validation, conditional logic, and random number generation in Python.
+## How to Run
+1. Ensure Python is installed
+2. Run the program using:
+   python random_number_generator.py
